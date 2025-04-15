@@ -1,8 +1,11 @@
 ---
 name: default
-about: 기본 템플릿
+about: 빈 이슈 템플릿
 title: '[] '
 labels: ''
 assignees: ''
 ---
-#
+
+## 내용
+
+## 참고
